@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iwebook>
+  <ibook>
+    <iauthor>飞扬网媒部</iauthor>
+    <ibid>1</ibid>
+    <iname>i飞扬</iname>
+    <isid>22</isid>
+    <ititle>i飞扬杂志第22期</ititle>
+    <idate>2013-12-03 00:00:00</idate>
+    <iface outlook="width: 475px; height: 650px;" />
+    <imode>1</imode>
+    <idesktop url="./Desktop.jpg"/>
+    <imusic url="Just Can’t Get Enough - Black Eyed Peas.mp3" page="0-30">卫兰-Moring</imusic>
+    <imusic url="1时间 - Humbert Humbert.mp3" page="31-54">a_hisa - 风筝与风</imusic>
+    <imusic url="3—Don't Cry - 李孝利.mp3" page="55-92">QUATERA WOODS-JDK</imusic>
+    <imusic url="I Love You - JUST.mp3" page="124-141">fy1</imusic>
+    <imusic url="4—雨后的咖啡 - SNP.mp3" page="124-141">fy1</imusic>
+  </ibook>
+  <ipage id="1" type="Cover">
+    <ibgp url="./IFY-22-000.jpg"/>
+  </ipage>
+  <ipage id="2" type="Content">
+    
+    <ibgp url="./IFY-22-001.jpg"/>
+  </ipage>
+  <ipage id="3" type="Content">
+    <ititle level="1">卷首语</ititle>
+    <ibgp url="./IFY-22-002.jpg"/>
+  </ipage>
+  <ipage id="4" type="Index">
+    <ibgp url="./IFY-22-003.jpg"/>
+    <ilink outlook="left: 29px; top: 300px; width: 91px; height: 30px;" toPage="6" />
+    <ilink outlook="left: 29px; top: 335px; width: 90px; height: 20px;" toPage="8" />
+    <ilink outlook="left: 29px; top: 422px; width: 90px; height: 20px;" toPage="28" />
+    <ilink outlook="left:29px; top: 454px; width: 90px; height: 20px;" toPage="32" />
+    <ilink outlook="left: 270px; top: 295px; width: 91px; height: 30px;" toPage="36" />
+    <ilink outlook="left: 270px; top: 340px; width: 55px; height: 17px;" toPage="38" />
+    <ilink outlook="left: 270px; top: 410px; width: 77px; height: 17px;" toPage="46" />
+    <ilink outlook="left: 270px; top:530px; width: 67px; height:17px;" toPage="56" />
+    <ilink outlook="left: 270px; top:560px; width: 50px; height:17px;" toPage="64" />
+ 
+  </ipage>
+  <ipage id="5" type="Index">
+    <ibgp url="./IFY-22-004.jpg"/>
+   <ilink outlook="left: 33px; top: 298px; width: 91px; height: 27px;" toPage="72" />
+    <ilink outlook="left: 33px; top: 335px; width: 97px; height: 20px;" toPage="74" />
+    <ilink outlook="left: 33px; top: 375px; width: 50px; height: 17px;" toPage="78" />
+    <ilink outlook="left:33px; top: 410px; width: 50px; height: 17px;" toPage="84" />
+    <ilink outlook="left: 33px; top: 535px; width: 50px; height: 17px;" toPage="94" />
+    <ilink outlook="left: 273px; top: 375px; width: 60px; height: 15px;" toPage="114" />
+    <ilink outlook="left: 273px; top: 300px; width: 94px; height: 30px;" toPage="102" />
+    <ilink outlook="left: 273px; top:340px; width: 120px; height:17px;" toPage="104" />
+   
+  </ipage>
+  <ipage id="6" type="Cover">
+    <ititle level="1">飞扬在线</ititle>
+    <ibgp url="./IFY-22-005.jpg"/>
+  </ipage>
+  <ipage id="7" type="Cover">
+    <ibgp url="./IFY-22-006.jpg"/>
+  </ipage>
+  <ipage id="8" type="Content">
+    <ititle level="2">科技前沿</ititle>
+    <ibgp url="./IFY-22-007.jpg"/>
+  </ipage>
+  <ipage id="9" type="Content">
+    <ibgp url="./IFY-22-008.jpg"/>
+  </ipage>
+  <ipage id="10" type="Cover">
+    
+    <ibgp url="./IFY-22-009.jpg"/>
+  </ipage>
+  <ipage id="11" type="Content">
+    <ibgp url="./IFY-22-010.jpg"/>
+  </ipage>
+  <ipage id="12" type="Content">
+    <ibgp url="./IFY-22-011.jpg"></ibgp>
+  </ipage>
+  <ipage id="13" type="Content">
+    <ibgp url="./IFY-22-012.jpg"></ibgp>
+  </ipage>
+  <ipage id="14" type="Content">
+    <ibgp url="./IFY-22-013.jpg"></ibgp>
+  </ipage>
+  <ipage id="15" type="Content">
+    <ibgp url="./IFY-22-014.jpg"></ibgp>
+  </ipage>
+  <ipage id="16" type="Content">
+    <ibgp url="./IFY-22-015.jpg"></ibgp>
+  </ipage>
+  <ipage id="17" type="Content">
+    <ibgp url="./IFY-22-016.jpg"></ibgp>
+  </ipage>
+  <ipage id="18" type="Content">
+    <ibgp url="./IFY-22-017.jpg"></ibgp>
+  </ipage>
+  <ipage id="19" type="Content">
+    <ibgp url="./IFY-22-018.jpg"></ibgp>
+  </ipage>
+  <ipage id="20" type="Content">
+    <ibgp url="./IFY-22-019.jpg"></ibgp>
+  </ipage>
+  <ipage id="21" type="Content">
+    <ibgp url="./IFY-22-020.jpg"></ibgp>
+  </ipage>
+  <ipage id="22" type="Content">
+    <ibgp url="./IFY-22-021.jpg"></ibgp>
+  </ipage>
+  <ipage id="23" type="Content">
+    <ibgp url="./IFY-22-022.jpg"></ibgp>
+  </ipage>
+  <ipage id="24" type="Content">
+    <ibgp url="./IFY-22-023.jpg"></ibgp>
+
+  </ipage>
+  <ipage id="25" type="Content">
+    <ibgp url="./IFY-22-024.jpg"></ibgp>
+   </ipage>
+  <ipage id="26" type="Content">
+    <ibgp url="./IFY-22-025.jpg"></ibgp>
+  </ipage>
+  <ipage id="27" type="Content">
+    <ibgp url="./IFY-22-026.jpg"></ibgp>
+  
+  </ipage>
+  <ipage id="28" type="Content">
+    <ititle level="2">你问我答</ititle>
+    <ibgp url="./IFY-22-027.jpg"></ibgp>
+  </ipage>
+  <ipage id="29" type="Content">
+    <ibgp url="./IFY-22-028.jpg"></ibgp>
+  
+  </ipage>
+  <ipage id="30" type="Content">
+    <ibgp url="./IFY-22-029.jpg"></ibgp>
+    
+  </ipage>
+  <ipage id="31" type="Content">
+    <ibgp url="./IFY-22-030.jpg"></ibgp>
+   
+  </ipage>
+  <ipage id="32" type="Content">
+    <ititle level="2">川大百科</ititle>
+    <ibgp url="./IFY-22-031.jpg"></ibgp>
+  
+  </ipage>
+  <ipage id="33" type="Content">
+    <ibgp url="./IFY-22-032.jpg"></ibgp>
+    <ilink outlook="left: 199px; top: 563px; width: 198px; height: 17px;" url="http://fyscu.com/wiki/%e5%86%af%e5%b0%8f%e6%98%8e" />
+  </ipage>
+  <ipage id="34" type="Content">
+    <ibgp url="./IFY-22-033.jpg"></ibgp>
+     
+  </ipage>
+  <ipage id="35" type="Content">
+    <ibgp url="./IFY-22-034.jpg"></ibgp>
+    <ilink outlook="left: 13px; top: 410px; width: 220px; height: 17px;" url="http://fyscu.com/wiki/%e8%89%ba%e6%9c%af%e5%ad%a6%e9%99%a2" />
+  </ipage>
+  <ipage id="36" type="Content">
+     <ititle level="1">且听风吟</ititle>
+    <ibgp url="./IFY-22-035.jpg"></ibgp>
+  </ipage>
+  <ipage id="37" type="Content">
+    <ibgp url="./IFY-22-036.jpg"></ibgp>
+  </ipage>
+  <ipage id="38" type="Content">
+    <ititle level="2">文苑</ititle>
+    <ibgp url="./IFY-22-037.jpg"></ibgp>
+  </ipage>
+  <ipage id="39" type="Content">
+    <ibgp url="./IFY-22-038.jpg"></ibgp>
+  </ipage>
+  <ipage id="40" type="Content">
+    <ibgp url="./IFY-22-039.jpg"></ibgp>
+  </ipage>
+  <ipage id="41" type="Content">
+    <ibgp url="./IFY-22-040.jpg"></ibgp>
+  </ipage>
+  <ipage id="42" type="Content">
+    <ibgp url="./IFY-22-041.jpg"></ibgp>
+  </ipage>
+  <ipage id="43" type="Content">
+    <ibgp url="./IFY-22-042.jpg"></ibgp>
+  </ipage>
+  <ipage id="44" type="Content">
+    <ibgp url="./IFY-22-043.jpg"></ibgp>
+  </ipage>
+  <ipage id="45" type="Content">
+    <ibgp url="./IFY-22-044.jpg"></ibgp>
+  </ipage>
+  <ipage id="46" type="Content">
+       <ititle level="2">川大心情</ititle>
+    <ibgp url="./IFY-22-045.jpg"></ibgp>
+  </ipage>
+  <ipage id="47" type="Content">
+     
+    <ibgp url="./IFY-22-046.jpg"></ibgp>
+  </ipage>
+  <ipage id="48" type="Content">
+    <ibgp url="./IFY-22-047.jpg"></ibgp>
+  </ipage>
+  <ipage id="49" type="Content">
+    <ibgp url="./IFY-22-048.jpg"></ibgp>
+  </ipage>
+  <ipage id="50" type="Content">
+    <ibgp url="./IFY-22-049.jpg"></ibgp>
+  </ipage>
+  <ipage id="51" type="Content">
+    <ibgp url="./IFY-22-050.jpg"></ibgp>
+  </ipage>
+  <ipage id="52" type="Content">
+    <ibgp url="./IFY-22-051.jpg"></ibgp>
+  </ipage>
+  <ipage id="53" type="Content">
+    <ibgp url="./IFY-22-052.jpg"></ibgp>
+  </ipage>
+  <ipage id="54" type="Content">
+    <ibgp url="./IFY-22-053.jpg"></ibgp>
+  </ipage>
+  <ipage id="55" type="Content">
+    <ibgp url="./IFY-22-054.jpg"></ibgp>
+  </ipage>
+  <ipage id="56" type="Content">
+    <ititle level="2">英语角</ititle>
+    <ibgp url="./IFY-22-055.jpg"></ibgp>
+  </ipage>
+  <ipage id="57" type="Content">
+    <ibgp url="./IFY-22-056.jpg"></ibgp>
+  </ipage>
+  <ipage id="58" type="Cover">
+  
+    <ibgp url="./IFY-22-057.jpg"></ibgp>
+  </ipage>
+  <ipage id="59" type="Cover">
+    <ibgp url="./IFY-22-058.jpg"></ibgp>
+  </ipage>
+  <ipage id="60" type="Content">
+   
+    <ibgp url="./IFY-22-059.jpg"></ibgp>
+  </ipage>
+  <ipage id="61" type="Content">
+    <ibgp url="./IFY-22-060.jpg"></ibgp>
+  </ipage>
+  <ipage id="62" type="Content">
+    <ibgp url="./IFY-22-061.jpg"></ibgp>
+  </ipage>
+  <ipage id="63" type="Content">
+    <ibgp url="./IFY-22-062.jpg"></ibgp>
+  </ipage>
+  <ipage id="64" type="Cover">
+    <ititle level="2">画语</ititle>
+    <ibgp url="./IFY-22-063.jpg"></ibgp>
+  </ipage>
+  <ipage id="65" type="Content">
+    <ibgp url="./IFY-22-064.jpg"></ibgp>
+  </ipage>
+  <ipage id="66" type="Content">
+    <ibgp url="./IFY-22-065.jpg"></ibgp>
+  </ipage>
+  <ipage id="67" type="Content">
+    <ibgp url="./IFY-22-066.jpg"></ibgp>
+  </ipage>
+  <ipage id="68" type="Content">
+    <ibgp url="./IFY-22-067.jpg"></ibgp>
+  </ipage>
+  <ipage id="69" type="Content">
+    <ibgp url="./IFY-22-068.jpg"></ibgp>
+  </ipage>
+  <ipage id="70" type="Content">
+  
+    <ibgp url="./IFY-22-069.jpg"></ibgp>
+  </ipage>
+  <ipage id="71" type="Content">
+    <ibgp url="./IFY-22-070.jpg"></ibgp>
+  </ipage>
+  <ipage id="72" type="Cover">
+    <ititle level="1">娱乐至尚</ititle>
+    <ibgp url="./IFY-22-071.jpg"></ibgp>
+  </ipage>
+  <ipage id="73" type="Cover">
+    <ibgp url="./IFY-22-072.jpg"></ibgp>
+  </ipage>
+  <ipage id="74" type="Content">
+    <ititle level="2">社会大搜索</ititle>
+    <ibgp url="./IFY-22-073.jpg"></ibgp>
+  </ipage>
+  <ipage id="75" type="Content">
+    <ibgp url="./IFY-22-074.jpg"></ibgp>
+  </ipage>
+  <ipage id="76" type="Content">
+    <ibgp url="./IFY-22-075.jpg"></ibgp>
+  </ipage>
+  <ipage id="77" type="Content">
+    <ibgp url="./IFY-22-076.jpg"></ibgp>
+  </ipage>
+  <ipage id="78" type="Content">
+    <ibgp url="./IFY-22-077.jpg"></ibgp>
+  </ipage>
+  <ipage id="79" type="Content">
+    <ibgp url="./IFY-22-078.jpg"></ibgp>
+  </ipage>
+  <ipage id="80" type="Content">
+    <ibgp url="./IFY-22-079.jpg"></ibgp>
+  </ipage>
+  <ipage id="81" type="Content">
+    <ibgp url="./IFY-22-080.jpg"></ibgp>
+  </ipage>
+  <ipage id="82" type="Content">
+    <ibgp url="./IFY-22-081.jpg"></ibgp>
+  </ipage>
+  <ipage id="83" type="Content">
+    <ibgp url="./IFY-22-082.jpg"></ibgp>
+  </ipage>
+  <ipage id="84" type="Cover">
+    <ititle level="2">影讯</ititle>
+    <ibgp url="./IFY-22-083.jpg"></ibgp>
+  </ipage>
+  <ipage id="85" type="Cover">
+    <ibgp url="./IFY-22-084.jpg"></ibgp>
+  </ipage>
+  <ipage id="86" type="Cover">
+   
+    <ibgp url="./IFY-22-085.jpg"></ibgp>
+  </ipage>
+  <ipage id="87" type="Content">
+    <ibgp url="./IFY-22-086.jpg"></ibgp>
+  </ipage>
+  <ipage id="88" type="Cover">
+   
+    <ibgp url="./IFY-22-087.jpg"></ibgp>
+  </ipage>
+  <ipage id="89" type="Content">
+    <ibgp url="./IFY-22-088.jpg"></ibgp>
+  </ipage>
+  <ipage id="90" type="Content">
+    <ibgp url="./IFY-22-089.jpg"></ibgp>
+  </ipage>
+  <ipage id="91" type="Content">
+    <ibgp url="./IFY-22-090.jpg"></ibgp>
+  </ipage>
+  <ipage id="92" type="Cover">
+    <ibgp url="./IFY-22-091.jpg"></ibgp>
+  </ipage>
+  <ipage id="93" type="Content">
+    <ibgp url="./IFY-22-092.jpg"></ibgp>
+    
+  </ipage>
+  <ipage id="94" type="Cover">
+      <ititle level="2">音鉴</ititle>
+    <ibgp url="./IFY-22-093.jpg"></ibgp>
+  </ipage>
+  <ipage id="95" type="Content">
+    <ibgp url="./IFY-22-094.jpg"></ibgp>
+  </ipage>
+  <ipage id="96" type="Content">
+    <ibgp url="./IFY-22-095.jpg"></ibgp>
+  </ipage>
+  <ipage id="97" type="Content">
+    <ibgp url="./IFY-22-096.jpg"></ibgp>
+  </ipage>
+  <ipage id="98" type="Content">
+    <ibgp url="./IFY-22-097.jpg"></ibgp>
+  </ipage>
+  <ipage id="99" type="Content">
+    <ibgp url="./IFY-22-098.jpg"></ibgp>
+  </ipage>
+  <ipage id="100" type="Cover">
+
+    <ibgp url="./IFY-22-099.jpg"></ibgp>
+  </ipage>
+  <ipage id="101" type="Content">
+    <ibgp url="./IFY-22-100.jpg"></ibgp>
+  </ipage>
+  <ipage id="102" type="Content">
+       <ititle level="1">特别企划</ititle>
+    <ibgp url="./IFY-22-101.jpg"></ibgp>
+  </ipage>
+  <ipage id="103" type="Content">
+    <ibgp url="./IFY-22-102.jpg"></ibgp>
+  </ipage>
+  <ipage id="104" type="Content">
+    <ibgp url="./IFY-22-103.jpg"></ibgp>
+       <ititle level="2">你眼中的飞扬</ititle>
+  </ipage>
+  <ipage id="105" type="Content">
+    <ibgp url="./IFY-22-104.jpg"></ibgp>
+    
+  </ipage>
+  <ipage id="106" type="Content">
+    <ibgp url="./IFY-22-105.jpg"></ibgp>
+  </ipage>
+  <ipage id="107" type="Content">
+    <ibgp url="./IFY-22-106.jpg"></ibgp>
+  </ipage>
+  <ipage id="108" type="Content">
+    <ibgp url="./IFY-22-107.jpg"></ibgp>
+  </ipage>
+  <ipage id="109" type="Content">
+    <ibgp url="./IFY-22-108.jpg"></ibgp>
+  </ipage>
+  <ipage id="110" type="Content">
+    <ibgp url="./IFY-22-109.jpg"></ibgp>
+  </ipage>
+  <ipage id="111" type="Content">
+    <ibgp url="./IFY-22-110.jpg"></ibgp>
+  </ipage>
+  <ipage id="112" type="Cover">
+  
+    <ibgp url="./IFY-22-111.jpg"></ibgp>
+
+  </ipage>
+  <ipage id="113" type="Cover">
+    <ibgp url="./IFY-22-112.jpg"></ibgp>
+    <ilink outlook="left: 283px; top: 162px; width: 170px; height: 23px;" url="http://fyscu.com/" />
+    
+  </ipage>
+  <ipage id="114" type="Content">
+       <ititle level="2">日历墙</ititle>
+    <ibgp url="./IFY-22-113.jpg"></ibgp>
+    
+  </ipage>
+  <ipage id="115" type="Content">
+    <ibgp url="./IFY-22-114.jpg"></ibgp>
+  </ipage>
+  <ipage id="116" type="Content">
+  
+    <ibgp url="./IFY-22-115.jpg"></ibgp>
+
+  </ipage>
+  <ipage id="117" type="Content">
+    <ibgp url="./IFY-22-116.jpg"></ibgp>
+    <ilink outlook="left: 193px; top: 330px; width: 193px; height: 40px;" url="http://fyscu.com" />
+    <ilink outlook="left: 285px; top: 479px; width: 167px; height: 44px;" url="http://list.qq.com/cgi-bin/qf_invite?id=4c58f53876b2dfa02de0dcbc65700030aaf4f9ed8a0119ec" />
+    
+  </ipage>
+  <ipage id="118" type="Content">
+    <ibgp url="./IFY-22-117.jpg"></ibgp>
+  </ipage>
+
+  
+</iwebook>

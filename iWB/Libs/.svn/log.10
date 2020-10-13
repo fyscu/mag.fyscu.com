@@ -1,0 +1,13 @@
+<rm
+   name=".svn/prop-base/jQuery.Hammer.js.svn-revert"/>
+<modify-entry
+   committed-rev="565"
+   committed-date="2015-03-09T04:08:06.634107Z"
+   name="jQuery.Hammer.js"
+   checksum="cdabd9dc147e18dab3da84dc247531db"
+   last-author="lanhao"/>
+<delete-changelist
+   name="jQuery.Hammer.js"/>
+<committed
+   name="jQuery.Hammer.js"
+   revision="565"/>

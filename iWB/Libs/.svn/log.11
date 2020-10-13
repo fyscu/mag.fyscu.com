@@ -1,0 +1,13 @@
+<rm
+   name=".svn/prop-base/jQuery.PageZoomer.js.svn-revert"/>
+<modify-entry
+   committed-rev="565"
+   committed-date="2015-03-09T04:08:06.634107Z"
+   name="jQuery.PageZoomer.js"
+   checksum="26b44c5d15e68c391ee0e39e03008b14"
+   last-author="lanhao"/>
+<delete-changelist
+   name="jQuery.PageZoomer.js"/>
+<committed
+   name="jQuery.PageZoomer.js"
+   revision="565"/>

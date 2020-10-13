@@ -1,0 +1,13 @@
+<rm
+   name=".svn/prop-base/iFY_19_121.jpg.svn-revert"/>
+<modify-entry
+   committed-rev="565"
+   committed-date="2015-03-09T04:08:06.634107Z"
+   name="iFY_19_121.jpg"
+   checksum="17c114f9b3d8bb89e566ad3c31f08f78"
+   last-author="lanhao"/>
+<delete-changelist
+   name="iFY_19_121.jpg"/>
+<committed
+   name="iFY_19_121.jpg"
+   revision="565"/>
