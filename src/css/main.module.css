@@ -1,0 +1,21 @@
+﻿.noselect{
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+.reselect{
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    user-select: text;
+}
+.nodrag{
+    -webkit-user-drag: none;
+}
+.fullScreen{
+    display: block;
+    height: 100vh;/*兼容*/
+    height: 100dvh;
+    width: 100vw;/*兼容*/
+    width: 100dvw;
+    overflow: clip;
+}

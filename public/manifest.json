@@ -1,0 +1,40 @@
+{
+    "name": "iFeiyang Magazine",
+    "short_name": "iFeiyang",
+    "description": "Web reading room for the iFeiyang electronic magazine.",
+    "start_url": "/",
+    "lang": "zh-CN",
+    "orientation": "natural",
+    "display": "standalone",
+    "scope": "/",
+    "id": "/",
+    "prefer_related_applications": false,
+    "theme_color": "#AEF01F",
+    "background_color": "#AEF01F",
+    "protocol_handlers": [
+        {
+            "protocol": "web+ify",
+            "url": "?url=%s"
+        }
+    ],
+    "icons": [
+        {
+            "src": "icons/512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/2560.png",
+            "sizes": "2560x2560",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/2560_mask.png",
+            "sizes": "2560x2560",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
