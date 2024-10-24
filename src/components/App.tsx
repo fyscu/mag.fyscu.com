@@ -1,15 +1,20 @@
+import { Component as Cp } from "react";
 import styles from "./App.module.css";
+import Ifylogo from "../assets/ifylogo.svg";
 
-export default function App(){
-    return (<>
-        <header class={styles.header}>
+export default class App extends Cp{
 
-        </header>
-        <div>
-
-        </div>
-        <footer>
-
-        </footer>
-    </>);
+    render(){
+        return (<>
+            <header className={styles.header}>
+                <div style={{width: "6rem", height: "6rem"}}><Ifylogo fill="#BBBBFF" /></div>
+            </header>
+            <div>
+                {}
+            </div>
+            <footer>
+    
+            </footer>
+        </>);
+    }
 }
