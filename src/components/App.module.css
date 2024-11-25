@@ -5,3 +5,9 @@
     display: flex;
     flex-flow: row nowrap;
 }
+.logoWrapper{
+    display: grid;
+    place-items: center;
+    overflow: clip;
+    width: 6rem;
+}

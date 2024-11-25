@@ -7,7 +7,7 @@ export default class App extends Cp{
     render(){
         return (<>
             <header className={styles.header}>
-                <div style={{width: "6rem", height: "6rem"}}><Ifylogo fill="#BBBBFF" /></div>
+                <div className={styles.logoWrapper}><Ifylogo fill="#BBBBFF" /></div>
             </header>
             <div>
                 {}
