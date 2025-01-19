@@ -1,0 +1,12 @@
+﻿.outer{
+    display: flex;
+    flex-flow: row;
+    flex: 1;
+    gap: 1rem;
+}
+.left{
+    display: flex;
+    flex-flow: column nowrap;
+    width: 20dvw;
+    margin: min(1.5rem, min(15dvw, 15dvh));
+}

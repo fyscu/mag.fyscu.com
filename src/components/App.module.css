@@ -6,8 +6,64 @@
     flex-flow: row nowrap;
 }
 .logoWrapper{
-    display: grid;
-    place-items: center;
-    overflow: clip;
-    width: 6rem;
+    height: 4rem;
+    display: flex;
+    flex-flow: row nowrap;
+}
+.logo{
+    font-family: tsangerfeibaiw04;
+    font-size: 2.4rem;
+    color: #4b22ac;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    padding: 0 .5rem 0 1rem;
+}
+.titleSuffix{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+}
+.menu{
+    display: flex;
+    flex-flow: row nowrap;
+    padding-left: 4rem;
+    justify-content: space-between;
+    flex: 1;
+}
+.menuItem{
+    user-select: none;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    padding: 0 1rem;
+}
+.menuItem:hover{
+    background-color: #00000010;
+}
+.menuItem:active{
+    transition-duration: .08s;
+    background-color: #00000020;
+}
+.menuInner{
+    display: flex;
+    flex-flow: row nowrap;
+}
+.about{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    padding: 0 1rem;
+    align-items: center;
+    font-size: .9rem;
+}
+.footer{
+    flex: 0;
+    justify-self: flex-end;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: .4rem;
+    padding-bottom: .25rem;
 }

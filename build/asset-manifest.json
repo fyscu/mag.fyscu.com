@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e233400d.css",
+    "main.js": "/static/js/main.7bfabb16.js",
+    "static/media/cangerfeibaiw04-2-webfont.woff2": "/static/media/cangerfeibaiw04-2-webfont.46b503751cb35547f774.woff2",
+    "index.html": "/index.html",
+    "main.e233400d.css.map": "/static/css/main.e233400d.css.map",
+    "main.7bfabb16.js.map": "/static/js/main.7bfabb16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e233400d.css",
+    "static/js/main.7bfabb16.js"
+  ]
+}

@@ -1,4 +1,10 @@
-﻿*{
+﻿@font-face {
+    font-family: "tsangerfeibaiw04";
+    src: url("cangerfeibaiw04-2-webfont.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+*{
     outline: none;
     scroll-behavior: smooth;
     -webkit-font-smoothing: antialiased;
@@ -38,7 +44,8 @@ body{
     color: var(--c-text-main);
 }
 #root{
-    display: block;
+    display: flex;
+    flex-flow: column nowrap;
     height: 100vh;/*兼容*/
     height: 100dvh;
     width: 100vw;/*兼容*/

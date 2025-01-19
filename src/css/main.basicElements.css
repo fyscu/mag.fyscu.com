@@ -53,6 +53,8 @@ a:active{
     box-sizing: content-box;
     border: none;
     border-radius: 0;
+    font-size: 1rem;
+    background: none;
 }
 /*#endregion*/
 /*#region Headings*/
